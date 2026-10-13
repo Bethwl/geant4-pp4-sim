@@ -1,0 +1,17 @@
+build/
+bin/
+*.root
+process_results.csv
+*.zip
+*.csv
+!macros/*.mac
+!macros/macro/*.mac
+.vscode/
+.vs/
+*.o
+*.obj
+*.exe
+Sim
+AutoMac
+New folder/
+src/New folder/

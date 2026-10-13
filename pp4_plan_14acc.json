@@ -1,0 +1,2598 @@
+{
+  "haoidlemystic1": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_100keV",
+        "macro_file": "run_S0_D0p4_E100.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S0_D0p4_E100.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.04cm_40keV",
+        "macro_file": "run_S3_D0p4_E40.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S3_D0p4_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_0.09cm_50keV",
+        "macro_file": "run_S0_D0p9_E50.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S0_D0p9_E50.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_10000keV",
+        "macro_file": "run_S3_D10_E10000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 10000.0,
+        "energy_mev": 10.0,
+        "root_file": "hist_S3_D10_E10000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_15000keV",
+        "macro_file": "run_S0_D10_E15000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 15000.0,
+        "energy_mev": 15.0,
+        "root_file": "hist_S0_D10_E15000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_300keV",
+        "macro_file": "run_S3_D10_E300.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 300.0,
+        "energy_mev": 0.3,
+        "root_file": "hist_S3_D10_E300.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S0_1cm_800keV",
+        "macro_file": "run_S0_D10_E800.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 800.0,
+        "energy_mev": 0.8,
+        "root_file": "hist_S0_D10_E800.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_15keV",
+        "macro_file": "run_S4_D0p4_E15.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S4_D0p4_E15.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_20keV",
+        "macro_file": "run_S1_D0p9_E20.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S1_D0p9_E20.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_60keV",
+        "macro_file": "run_S4_D0p9_E60.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S4_D0p9_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_14000keV",
+        "macro_file": "run_S1_D10_E14000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 14000.0,
+        "energy_mev": 14.0,
+        "root_file": "hist_S1_D10_E14000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_200keV",
+        "macro_file": "run_S4_D10_E200.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 200.0,
+        "energy_mev": 0.2,
+        "root_file": "hist_S4_D10_E200.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_600keV",
+        "macro_file": "run_S1_D10_E600.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 600.0,
+        "energy_mev": 0.6,
+        "root_file": "hist_S1_D10_E600.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_8000keV",
+        "macro_file": "run_S4_D10_E8000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 8000.0,
+        "energy_mev": 8.0,
+        "root_file": "hist_S4_D10_E8000.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.04cm_80keV",
+        "macro_file": "run_S2_D0p4_E80.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S2_D0p4_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_12000keV",
+        "macro_file": "run_S2_D10_E12000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 12000.0,
+        "energy_mev": 12.0,
+        "root_file": "hist_S2_D10_E12000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_4000keV",
+        "macro_file": "run_S2_D10_E4000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 4000.0,
+        "energy_mev": 4.0,
+        "root_file": "hist_S2_D10_E4000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "vuicho": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_15keV",
+        "macro_file": "run_S0_D0p4_E15.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S0_D0p4_E15.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.04cm_50keV",
+        "macro_file": "run_S3_D0p4_E50.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S3_D0p4_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_0.09cm_60keV",
+        "macro_file": "run_S0_D0p9_E60.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S0_D0p9_E60.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_1022keV",
+        "macro_file": "run_S3_D10_E1022.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1022.0,
+        "energy_mev": 1.022,
+        "root_file": "hist_S3_D10_E1022.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_200keV",
+        "macro_file": "run_S0_D10_E200.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 200.0,
+        "energy_mev": 0.2,
+        "root_file": "hist_S0_D10_E200.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_3000keV",
+        "macro_file": "run_S3_D10_E3000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 3000.0,
+        "energy_mev": 3.0,
+        "root_file": "hist_S3_D10_E3000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S0_1cm_8000keV",
+        "macro_file": "run_S0_D10_E8000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 8000.0,
+        "energy_mev": 8.0,
+        "root_file": "hist_S0_D10_E8000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_20keV",
+        "macro_file": "run_S4_D0p4_E20.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S4_D0p4_E20.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_30keV",
+        "macro_file": "run_S1_D0p9_E30.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S1_D0p9_E30.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_80keV",
+        "macro_file": "run_S4_D0p9_E80.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S4_D0p9_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_150keV",
+        "macro_file": "run_S1_D10_E150.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 150.0,
+        "energy_mev": 0.15,
+        "root_file": "hist_S1_D10_E150.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_2000keV",
+        "macro_file": "run_S4_D10_E2000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2000.0,
+        "energy_mev": 2.0,
+        "root_file": "hist_S4_D10_E2000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_6000keV",
+        "macro_file": "run_S1_D10_E6000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 6000.0,
+        "energy_mev": 6.0,
+        "root_file": "hist_S1_D10_E6000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_9000keV",
+        "macro_file": "run_S4_D10_E9000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 9000.0,
+        "energy_mev": 9.0,
+        "root_file": "hist_S4_D10_E9000.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_100keV",
+        "macro_file": "run_S2_D0p9_E100.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S2_D0p9_E100.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_1250keV",
+        "macro_file": "run_S2_D10_E1250.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1250.0,
+        "energy_mev": 1.25,
+        "root_file": "hist_S2_D10_E1250.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_500keV",
+        "macro_file": "run_S2_D10_E500.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 500.0,
+        "energy_mev": 0.5,
+        "root_file": "hist_S2_D10_E500.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "haoidle4zk": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_20keV",
+        "macro_file": "run_S0_D0p4_E20.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S0_D0p4_E20.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.04cm_60keV",
+        "macro_file": "run_S3_D0p4_E60.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S3_D0p4_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_0.09cm_80keV",
+        "macro_file": "run_S0_D0p9_E80.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S0_D0p9_E80.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_11000keV",
+        "macro_file": "run_S3_D10_E11000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 11000.0,
+        "energy_mev": 11.0,
+        "root_file": "hist_S3_D10_E11000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_2000keV",
+        "macro_file": "run_S0_D10_E2000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2000.0,
+        "energy_mev": 2.0,
+        "root_file": "hist_S0_D10_E2000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_400keV",
+        "macro_file": "run_S3_D10_E400.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 400.0,
+        "energy_mev": 0.4,
+        "root_file": "hist_S3_D10_E400.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S0_1cm_9000keV",
+        "macro_file": "run_S0_D10_E9000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 9000.0,
+        "energy_mev": 9.0,
+        "root_file": "hist_S0_D10_E9000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_30keV",
+        "macro_file": "run_S4_D0p4_E30.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S4_D0p4_E30.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_40keV",
+        "macro_file": "run_S1_D0p9_E40.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S1_D0p9_E40.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_1000keV",
+        "macro_file": "run_S4_D10_E1000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1000.0,
+        "energy_mev": 1.0,
+        "root_file": "hist_S4_D10_E1000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_1500keV",
+        "macro_file": "run_S1_D10_E1500.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1500.0,
+        "energy_mev": 1.5,
+        "root_file": "hist_S1_D10_E1500.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_2044keV",
+        "macro_file": "run_S4_D10_E2044.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2044.0,
+        "energy_mev": 2.044,
+        "root_file": "hist_S4_D10_E2044.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_7000keV",
+        "macro_file": "run_S1_D10_E7000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 7000.0,
+        "energy_mev": 7.0,
+        "root_file": "hist_S1_D10_E7000.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_15keV",
+        "macro_file": "run_S2_D0p9_E15.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S2_D0p9_E15.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_13000keV",
+        "macro_file": "run_S2_D10_E13000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 13000.0,
+        "energy_mev": 13.0,
+        "root_file": "hist_S2_D10_E13000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_5000keV",
+        "macro_file": "run_S2_D10_E5000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 5000.0,
+        "energy_mev": 5.0,
+        "root_file": "hist_S2_D10_E5000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "67hao": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_30keV",
+        "macro_file": "run_S0_D0p4_E30.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S0_D0p4_E30.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.04cm_80keV",
+        "macro_file": "run_S3_D0p4_E80.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S3_D0p4_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_1000keV",
+        "macro_file": "run_S0_D10_E1000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1000.0,
+        "energy_mev": 1.0,
+        "root_file": "hist_S0_D10_E1000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_12000keV",
+        "macro_file": "run_S3_D10_E12000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 12000.0,
+        "energy_mev": 12.0,
+        "root_file": "hist_S3_D10_E12000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_2044keV",
+        "macro_file": "run_S0_D10_E2044.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2044.0,
+        "energy_mev": 2.044,
+        "root_file": "hist_S0_D10_E2044.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_4000keV",
+        "macro_file": "run_S3_D10_E4000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 4000.0,
+        "energy_mev": 4.0,
+        "root_file": "hist_S3_D10_E4000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_100keV",
+        "macro_file": "run_S1_D0p4_E100.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S1_D0p4_E100.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_40keV",
+        "macro_file": "run_S4_D0p4_E40.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S4_D0p4_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_50keV",
+        "macro_file": "run_S1_D0p9_E50.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S1_D0p9_E50.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_10000keV",
+        "macro_file": "run_S4_D10_E10000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 10000.0,
+        "energy_mev": 10.0,
+        "root_file": "hist_S4_D10_E10000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_15000keV",
+        "macro_file": "run_S1_D10_E15000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 15000.0,
+        "energy_mev": 15.0,
+        "root_file": "hist_S1_D10_E15000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_300keV",
+        "macro_file": "run_S4_D10_E300.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 300.0,
+        "energy_mev": 0.3,
+        "root_file": "hist_S4_D10_E300.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_800keV",
+        "macro_file": "run_S1_D10_E800.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 800.0,
+        "energy_mev": 0.8,
+        "root_file": "hist_S1_D10_E800.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_20keV",
+        "macro_file": "run_S2_D0p9_E20.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S2_D0p9_E20.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_14000keV",
+        "macro_file": "run_S2_D10_E14000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 14000.0,
+        "energy_mev": 14.0,
+        "root_file": "hist_S2_D10_E14000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_600keV",
+        "macro_file": "run_S2_D10_E600.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 600.0,
+        "energy_mev": 0.6,
+        "root_file": "hist_S2_D10_E600.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "idlemystich": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_40keV",
+        "macro_file": "run_S0_D0p4_E40.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S0_D0p4_E40.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_100keV",
+        "macro_file": "run_S3_D0p9_E100.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S3_D0p9_E100.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_10000keV",
+        "macro_file": "run_S0_D10_E10000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 10000.0,
+        "energy_mev": 10.0,
+        "root_file": "hist_S0_D10_E10000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_1250keV",
+        "macro_file": "run_S3_D10_E1250.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1250.0,
+        "energy_mev": 1.25,
+        "root_file": "hist_S3_D10_E1250.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_300keV",
+        "macro_file": "run_S0_D10_E300.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 300.0,
+        "energy_mev": 0.3,
+        "root_file": "hist_S0_D10_E300.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_500keV",
+        "macro_file": "run_S3_D10_E500.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 500.0,
+        "energy_mev": 0.5,
+        "root_file": "hist_S3_D10_E500.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_15keV",
+        "macro_file": "run_S1_D0p4_E15.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S1_D0p4_E15.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_50keV",
+        "macro_file": "run_S4_D0p4_E50.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S4_D0p4_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_60keV",
+        "macro_file": "run_S1_D0p9_E60.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S1_D0p9_E60.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_1022keV",
+        "macro_file": "run_S4_D10_E1022.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1022.0,
+        "energy_mev": 1.022,
+        "root_file": "hist_S4_D10_E1022.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_200keV",
+        "macro_file": "run_S1_D10_E200.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 200.0,
+        "energy_mev": 0.2,
+        "root_file": "hist_S1_D10_E200.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_3000keV",
+        "macro_file": "run_S4_D10_E3000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 3000.0,
+        "energy_mev": 3.0,
+        "root_file": "hist_S4_D10_E3000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_8000keV",
+        "macro_file": "run_S1_D10_E8000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 8000.0,
+        "energy_mev": 8.0,
+        "root_file": "hist_S1_D10_E8000.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_30keV",
+        "macro_file": "run_S2_D0p9_E30.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S2_D0p9_E30.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_150keV",
+        "macro_file": "run_S2_D10_E150.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 150.0,
+        "energy_mev": 0.15,
+        "root_file": "hist_S2_D10_E150.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_6000keV",
+        "macro_file": "run_S2_D10_E6000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 6000.0,
+        "energy_mev": 6.0,
+        "root_file": "hist_S2_D10_E6000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "CarwynDuc": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_50keV",
+        "macro_file": "run_S0_D0p4_E50.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S0_D0p4_E50.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_15keV",
+        "macro_file": "run_S3_D0p9_E15.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S3_D0p9_E15.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_1022keV",
+        "macro_file": "run_S0_D10_E1022.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1022.0,
+        "energy_mev": 1.022,
+        "root_file": "hist_S0_D10_E1022.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_13000keV",
+        "macro_file": "run_S3_D10_E13000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 13000.0,
+        "energy_mev": 13.0,
+        "root_file": "hist_S3_D10_E13000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_3000keV",
+        "macro_file": "run_S0_D10_E3000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 3000.0,
+        "energy_mev": 3.0,
+        "root_file": "hist_S0_D10_E3000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_5000keV",
+        "macro_file": "run_S3_D10_E5000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 5000.0,
+        "energy_mev": 5.0,
+        "root_file": "hist_S3_D10_E5000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_20keV",
+        "macro_file": "run_S1_D0p4_E20.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S1_D0p4_E20.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_60keV",
+        "macro_file": "run_S4_D0p4_E60.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S4_D0p4_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_0.09cm_80keV",
+        "macro_file": "run_S1_D0p9_E80.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S1_D0p9_E80.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_11000keV",
+        "macro_file": "run_S4_D10_E11000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 11000.0,
+        "energy_mev": 11.0,
+        "root_file": "hist_S4_D10_E11000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_2000keV",
+        "macro_file": "run_S1_D10_E2000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2000.0,
+        "energy_mev": 2.0,
+        "root_file": "hist_S1_D10_E2000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_400keV",
+        "macro_file": "run_S4_D10_E400.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 400.0,
+        "energy_mev": 0.4,
+        "root_file": "hist_S4_D10_E400.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S1_1cm_9000keV",
+        "macro_file": "run_S1_D10_E9000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 9000.0,
+        "energy_mev": 9.0,
+        "root_file": "hist_S1_D10_E9000.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_40keV",
+        "macro_file": "run_S2_D0p9_E40.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S2_D0p9_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_1500keV",
+        "macro_file": "run_S2_D10_E1500.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1500.0,
+        "energy_mev": 1.5,
+        "root_file": "hist_S2_D10_E1500.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_7000keV",
+        "macro_file": "run_S2_D10_E7000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 7000.0,
+        "energy_mev": 7.0,
+        "root_file": "hist_S2_D10_E7000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "laolaolaoma09": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_60keV",
+        "macro_file": "run_S0_D0p4_E60.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S0_D0p4_E60.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_20keV",
+        "macro_file": "run_S3_D0p9_E20.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S3_D0p9_E20.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_11000keV",
+        "macro_file": "run_S0_D10_E11000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 11000.0,
+        "energy_mev": 11.0,
+        "root_file": "hist_S0_D10_E11000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_14000keV",
+        "macro_file": "run_S3_D10_E14000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 14000.0,
+        "energy_mev": 14.0,
+        "root_file": "hist_S3_D10_E14000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_400keV",
+        "macro_file": "run_S0_D10_E400.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 400.0,
+        "energy_mev": 0.4,
+        "root_file": "hist_S0_D10_E400.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_600keV",
+        "macro_file": "run_S3_D10_E600.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 600.0,
+        "energy_mev": 0.6,
+        "root_file": "hist_S3_D10_E600.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_30keV",
+        "macro_file": "run_S1_D0p4_E30.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S1_D0p4_E30.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_80keV",
+        "macro_file": "run_S4_D0p4_E80.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S4_D0p4_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_1000keV",
+        "macro_file": "run_S1_D10_E1000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1000.0,
+        "energy_mev": 1.0,
+        "root_file": "hist_S1_D10_E1000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_12000keV",
+        "macro_file": "run_S4_D10_E12000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 12000.0,
+        "energy_mev": 12.0,
+        "root_file": "hist_S4_D10_E12000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_2044keV",
+        "macro_file": "run_S1_D10_E2044.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2044.0,
+        "energy_mev": 2.044,
+        "root_file": "hist_S1_D10_E2044.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_4000keV",
+        "macro_file": "run_S4_D10_E4000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 4000.0,
+        "energy_mev": 4.0,
+        "root_file": "hist_S4_D10_E4000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_100keV",
+        "macro_file": "run_S2_D0p4_E100.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S2_D0p4_E100.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_50keV",
+        "macro_file": "run_S2_D0p9_E50.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S2_D0p9_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_15000keV",
+        "macro_file": "run_S2_D10_E15000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 15000.0,
+        "energy_mev": 15.0,
+        "root_file": "hist_S2_D10_E15000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_800keV",
+        "macro_file": "run_S2_D10_E800.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 800.0,
+        "energy_mev": 0.8,
+        "root_file": "hist_S2_D10_E800.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "Bethwl": {
+    "1": [
+      {
+        "job_name": "S0_0.04cm_80keV",
+        "macro_file": "run_S0_D0p4_E80.mac",
+        "sample": "S0",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S0_D0p4_E80.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_30keV",
+        "macro_file": "run_S3_D0p9_E30.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S3_D0p9_E30.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_12000keV",
+        "macro_file": "run_S0_D10_E12000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 12000.0,
+        "energy_mev": 12.0,
+        "root_file": "hist_S0_D10_E12000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_150keV",
+        "macro_file": "run_S3_D10_E150.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 150.0,
+        "energy_mev": 0.15,
+        "root_file": "hist_S3_D10_E150.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_4000keV",
+        "macro_file": "run_S0_D10_E4000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 4000.0,
+        "energy_mev": 4.0,
+        "root_file": "hist_S0_D10_E4000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_6000keV",
+        "macro_file": "run_S3_D10_E6000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 6000.0,
+        "energy_mev": 6.0,
+        "root_file": "hist_S3_D10_E6000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_40keV",
+        "macro_file": "run_S1_D0p4_E40.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S1_D0p4_E40.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_100keV",
+        "macro_file": "run_S4_D0p9_E100.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S4_D0p9_E100.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_10000keV",
+        "macro_file": "run_S1_D10_E10000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 10000.0,
+        "energy_mev": 10.0,
+        "root_file": "hist_S1_D10_E10000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_1250keV",
+        "macro_file": "run_S4_D10_E1250.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1250.0,
+        "energy_mev": 1.25,
+        "root_file": "hist_S4_D10_E1250.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_300keV",
+        "macro_file": "run_S1_D10_E300.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 300.0,
+        "energy_mev": 0.3,
+        "root_file": "hist_S1_D10_E300.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_500keV",
+        "macro_file": "run_S4_D10_E500.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 500.0,
+        "energy_mev": 0.5,
+        "root_file": "hist_S4_D10_E500.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_15keV",
+        "macro_file": "run_S2_D0p4_E15.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S2_D0p4_E15.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_60keV",
+        "macro_file": "run_S2_D0p9_E60.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S2_D0p9_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_200keV",
+        "macro_file": "run_S2_D10_E200.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 200.0,
+        "energy_mev": 0.2,
+        "root_file": "hist_S2_D10_E200.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_8000keV",
+        "macro_file": "run_S2_D10_E8000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 8000.0,
+        "energy_mev": 8.0,
+        "root_file": "hist_S2_D10_E8000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "coredaohaojack": {
+    "1": [
+      {
+        "job_name": "S0_0.09cm_100keV",
+        "macro_file": "run_S0_D0p9_E100.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S0_D0p9_E100.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_40keV",
+        "macro_file": "run_S3_D0p9_E40.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S3_D0p9_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_1250keV",
+        "macro_file": "run_S0_D10_E1250.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1250.0,
+        "energy_mev": 1.25,
+        "root_file": "hist_S0_D10_E1250.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_1500keV",
+        "macro_file": "run_S3_D10_E1500.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1500.0,
+        "energy_mev": 1.5,
+        "root_file": "hist_S3_D10_E1500.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_500keV",
+        "macro_file": "run_S0_D10_E500.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 500.0,
+        "energy_mev": 0.5,
+        "root_file": "hist_S0_D10_E500.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_7000keV",
+        "macro_file": "run_S3_D10_E7000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 7000.0,
+        "energy_mev": 7.0,
+        "root_file": "hist_S3_D10_E7000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_50keV",
+        "macro_file": "run_S1_D0p4_E50.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S1_D0p4_E50.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_15keV",
+        "macro_file": "run_S4_D0p9_E15.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S4_D0p9_E15.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_1022keV",
+        "macro_file": "run_S1_D10_E1022.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1022.0,
+        "energy_mev": 1.022,
+        "root_file": "hist_S1_D10_E1022.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_13000keV",
+        "macro_file": "run_S4_D10_E13000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 13000.0,
+        "energy_mev": 13.0,
+        "root_file": "hist_S4_D10_E13000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_3000keV",
+        "macro_file": "run_S1_D10_E3000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 3000.0,
+        "energy_mev": 3.0,
+        "root_file": "hist_S1_D10_E3000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_5000keV",
+        "macro_file": "run_S4_D10_E5000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 5000.0,
+        "energy_mev": 5.0,
+        "root_file": "hist_S4_D10_E5000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_20keV",
+        "macro_file": "run_S2_D0p4_E20.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S2_D0p4_E20.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.09cm_80keV",
+        "macro_file": "run_S2_D0p9_E80.mac",
+        "sample": "S2",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S2_D0p9_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_2000keV",
+        "macro_file": "run_S2_D10_E2000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2000.0,
+        "energy_mev": 2.0,
+        "root_file": "hist_S2_D10_E2000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_1cm_9000keV",
+        "macro_file": "run_S2_D10_E9000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 9000.0,
+        "energy_mev": 9.0,
+        "root_file": "hist_S2_D10_E9000.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "htvnhe": {
+    "1": [
+      {
+        "job_name": "S0_0.09cm_15keV",
+        "macro_file": "run_S0_D0p9_E15.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S0_D0p9_E15.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_50keV",
+        "macro_file": "run_S3_D0p9_E50.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S3_D0p9_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_13000keV",
+        "macro_file": "run_S0_D10_E13000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 13000.0,
+        "energy_mev": 13.0,
+        "root_file": "hist_S0_D10_E13000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_15000keV",
+        "macro_file": "run_S3_D10_E15000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 15000.0,
+        "energy_mev": 15.0,
+        "root_file": "hist_S3_D10_E15000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_5000keV",
+        "macro_file": "run_S0_D10_E5000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 5000.0,
+        "energy_mev": 5.0,
+        "root_file": "hist_S0_D10_E5000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_800keV",
+        "macro_file": "run_S3_D10_E800.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 800.0,
+        "energy_mev": 0.8,
+        "root_file": "hist_S3_D10_E800.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_60keV",
+        "macro_file": "run_S1_D0p4_E60.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S1_D0p4_E60.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_20keV",
+        "macro_file": "run_S4_D0p9_E20.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S4_D0p9_E20.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_11000keV",
+        "macro_file": "run_S1_D10_E11000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 11000.0,
+        "energy_mev": 11.0,
+        "root_file": "hist_S1_D10_E11000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_14000keV",
+        "macro_file": "run_S4_D10_E14000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 14000.0,
+        "energy_mev": 14.0,
+        "root_file": "hist_S4_D10_E14000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_400keV",
+        "macro_file": "run_S1_D10_E400.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 400.0,
+        "energy_mev": 0.4,
+        "root_file": "hist_S1_D10_E400.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_600keV",
+        "macro_file": "run_S4_D10_E600.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 600.0,
+        "energy_mev": 0.6,
+        "root_file": "hist_S4_D10_E600.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_30keV",
+        "macro_file": "run_S2_D0p4_E30.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S2_D0p4_E30.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_1cm_1000keV",
+        "macro_file": "run_S2_D10_E1000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1000.0,
+        "energy_mev": 1.0,
+        "root_file": "hist_S2_D10_E1000.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_2044keV",
+        "macro_file": "run_S2_D10_E2044.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2044.0,
+        "energy_mev": 2.044,
+        "root_file": "hist_S2_D10_E2044.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_0.04cm_100keV",
+        "macro_file": "run_S3_D0p4_E100.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S3_D0p4_E100.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "haohue27": {
+    "1": [
+      {
+        "job_name": "S0_0.09cm_20keV",
+        "macro_file": "run_S0_D0p9_E20.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S0_D0p9_E20.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_60keV",
+        "macro_file": "run_S3_D0p9_E60.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S3_D0p9_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_14000keV",
+        "macro_file": "run_S0_D10_E14000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 14000.0,
+        "energy_mev": 14.0,
+        "root_file": "hist_S0_D10_E14000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_200keV",
+        "macro_file": "run_S3_D10_E200.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 200.0,
+        "energy_mev": 0.2,
+        "root_file": "hist_S3_D10_E200.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_600keV",
+        "macro_file": "run_S0_D10_E600.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 600.0,
+        "energy_mev": 0.6,
+        "root_file": "hist_S0_D10_E600.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_8000keV",
+        "macro_file": "run_S3_D10_E8000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 8000.0,
+        "energy_mev": 8.0,
+        "root_file": "hist_S3_D10_E8000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.04cm_80keV",
+        "macro_file": "run_S1_D0p4_E80.mac",
+        "sample": "S1",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S1_D0p4_E80.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_30keV",
+        "macro_file": "run_S4_D0p9_E30.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S4_D0p9_E30.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_12000keV",
+        "macro_file": "run_S1_D10_E12000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 12000.0,
+        "energy_mev": 12.0,
+        "root_file": "hist_S1_D10_E12000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_150keV",
+        "macro_file": "run_S4_D10_E150.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 150.0,
+        "energy_mev": 0.15,
+        "root_file": "hist_S4_D10_E150.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_4000keV",
+        "macro_file": "run_S1_D10_E4000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 4000.0,
+        "energy_mev": 4.0,
+        "root_file": "hist_S1_D10_E4000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_6000keV",
+        "macro_file": "run_S4_D10_E6000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 6000.0,
+        "energy_mev": 6.0,
+        "root_file": "hist_S4_D10_E6000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_40keV",
+        "macro_file": "run_S2_D0p4_E40.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S2_D0p4_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_1cm_10000keV",
+        "macro_file": "run_S2_D10_E10000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 10000.0,
+        "energy_mev": 10.0,
+        "root_file": "hist_S2_D10_E10000.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_300keV",
+        "macro_file": "run_S2_D10_E300.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 300.0,
+        "energy_mev": 0.3,
+        "root_file": "hist_S2_D10_E300.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_0.04cm_15keV",
+        "macro_file": "run_S3_D0p4_E15.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S3_D0p4_E15.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "fewhourtorelax": {
+    "1": [
+      {
+        "job_name": "S0_0.09cm_30keV",
+        "macro_file": "run_S0_D0p9_E30.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S0_D0p9_E30.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_0.09cm_80keV",
+        "macro_file": "run_S3_D0p9_E80.mac",
+        "sample": "S3",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 80.0,
+        "energy_mev": 0.08,
+        "root_file": "hist_S3_D0p9_E80.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_150keV",
+        "macro_file": "run_S0_D10_E150.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 150.0,
+        "energy_mev": 0.15,
+        "root_file": "hist_S0_D10_E150.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_2000keV",
+        "macro_file": "run_S3_D10_E2000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2000.0,
+        "energy_mev": 2.0,
+        "root_file": "hist_S3_D10_E2000.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_6000keV",
+        "macro_file": "run_S0_D10_E6000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 6000.0,
+        "energy_mev": 6.0,
+        "root_file": "hist_S0_D10_E6000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_9000keV",
+        "macro_file": "run_S3_D10_E9000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 9000.0,
+        "energy_mev": 9.0,
+        "root_file": "hist_S3_D10_E9000.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.09cm_100keV",
+        "macro_file": "run_S1_D0p9_E100.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S1_D0p9_E100.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_40keV",
+        "macro_file": "run_S4_D0p9_E40.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S4_D0p9_E40.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_1250keV",
+        "macro_file": "run_S1_D10_E1250.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1250.0,
+        "energy_mev": 1.25,
+        "root_file": "hist_S1_D10_E1250.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_1500keV",
+        "macro_file": "run_S4_D10_E1500.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1500.0,
+        "energy_mev": 1.5,
+        "root_file": "hist_S4_D10_E1500.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_500keV",
+        "macro_file": "run_S1_D10_E500.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 500.0,
+        "energy_mev": 0.5,
+        "root_file": "hist_S1_D10_E500.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_7000keV",
+        "macro_file": "run_S4_D10_E7000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 7000.0,
+        "energy_mev": 7.0,
+        "root_file": "hist_S4_D10_E7000.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_50keV",
+        "macro_file": "run_S2_D0p4_E50.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S2_D0p4_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_1cm_1022keV",
+        "macro_file": "run_S2_D10_E1022.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1022.0,
+        "energy_mev": 1.022,
+        "root_file": "hist_S2_D10_E1022.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_3000keV",
+        "macro_file": "run_S2_D10_E3000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 3000.0,
+        "energy_mev": 3.0,
+        "root_file": "hist_S2_D10_E3000.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_0.04cm_20keV",
+        "macro_file": "run_S3_D0p4_E20.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 20.0,
+        "energy_mev": 0.02,
+        "root_file": "hist_S3_D0p4_E20.root",
+        "primaries": 1000000
+      }
+    ]
+  },
+  "zotactothesun": {
+    "1": [
+      {
+        "job_name": "S0_0.09cm_40keV",
+        "macro_file": "run_S0_D0p9_E40.mac",
+        "sample": "S0",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 40.0,
+        "energy_mev": 0.04,
+        "root_file": "hist_S0_D0p9_E40.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_1000keV",
+        "macro_file": "run_S3_D10_E1000.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1000.0,
+        "energy_mev": 1.0,
+        "root_file": "hist_S3_D10_E1000.root",
+        "primaries": 1000000
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_1cm_1500keV",
+        "macro_file": "run_S0_D10_E1500.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 1500.0,
+        "energy_mev": 1.5,
+        "root_file": "hist_S0_D10_E1500.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S3_1cm_2044keV",
+        "macro_file": "run_S3_D10_E2044.mac",
+        "sample": "S3",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 2044.0,
+        "energy_mev": 2.044,
+        "root_file": "hist_S3_D10_E2044.root",
+        "primaries": 1000000
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_1cm_7000keV",
+        "macro_file": "run_S0_D10_E7000.mac",
+        "sample": "S0",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 7000.0,
+        "energy_mev": 7.0,
+        "root_file": "hist_S0_D10_E7000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.04cm_100keV",
+        "macro_file": "run_S4_D0p4_E100.mac",
+        "sample": "S4",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 100.0,
+        "energy_mev": 0.1,
+        "root_file": "hist_S4_D0p4_E100.root",
+        "primaries": 1000000
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.09cm_15keV",
+        "macro_file": "run_S1_D0p9_E15.mac",
+        "sample": "S1",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 15.0,
+        "energy_mev": 0.015,
+        "root_file": "hist_S1_D0p9_E15.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_0.09cm_50keV",
+        "macro_file": "run_S4_D0p9_E50.mac",
+        "sample": "S4",
+        "thickness_mm": 0.9,
+        "thickness_cm": 0.09,
+        "energy_kev": 50.0,
+        "energy_mev": 0.05,
+        "root_file": "hist_S4_D0p9_E50.root",
+        "primaries": 1000000
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S1_1cm_13000keV",
+        "macro_file": "run_S1_D10_E13000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 13000.0,
+        "energy_mev": 13.0,
+        "root_file": "hist_S1_D10_E13000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_15000keV",
+        "macro_file": "run_S4_D10_E15000.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 15000.0,
+        "energy_mev": 15.0,
+        "root_file": "hist_S4_D10_E15000.root",
+        "primaries": 1000000
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S1_1cm_5000keV",
+        "macro_file": "run_S1_D10_E5000.mac",
+        "sample": "S1",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 5000.0,
+        "energy_mev": 5.0,
+        "root_file": "hist_S1_D10_E5000.root",
+        "primaries": 1000000
+      },
+      {
+        "job_name": "S4_1cm_800keV",
+        "macro_file": "run_S4_D10_E800.mac",
+        "sample": "S4",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 800.0,
+        "energy_mev": 0.8,
+        "root_file": "hist_S4_D10_E800.root",
+        "primaries": 1000000
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.04cm_60keV",
+        "macro_file": "run_S2_D0p4_E60.mac",
+        "sample": "S2",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 60.0,
+        "energy_mev": 0.06,
+        "root_file": "hist_S2_D0p4_E60.root",
+        "primaries": 1000000
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_1cm_11000keV",
+        "macro_file": "run_S2_D10_E11000.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 11000.0,
+        "energy_mev": 11.0,
+        "root_file": "hist_S2_D10_E11000.root",
+        "primaries": 1000000
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_1cm_400keV",
+        "macro_file": "run_S2_D10_E400.mac",
+        "sample": "S2",
+        "thickness_mm": 10.0,
+        "thickness_cm": 1.0,
+        "energy_kev": 400.0,
+        "energy_mev": 0.4,
+        "root_file": "hist_S2_D10_E400.root",
+        "primaries": 1000000
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S3_0.04cm_30keV",
+        "macro_file": "run_S3_D0p4_E30.mac",
+        "sample": "S3",
+        "thickness_mm": 0.4,
+        "thickness_cm": 0.04,
+        "energy_kev": 30.0,
+        "energy_mev": 0.03,
+        "root_file": "hist_S3_D0p4_E30.root",
+        "primaries": 1000000
+      }
+    ]
+  }
+}
